@@ -1,17 +1,23 @@
 <h1 align="center">Hey there! I'm Joe Playdon.</h1>
 <h3 align="center">A passionate and driven developer that enjoys coding from the UK.</h3>
 
+  ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bodthegod&label=Profile%20views&color=0e75b6&style=flat" alt="bodthegod" /> </p>
 
 - 💬 Ask me about **Coding, Gaming, Crypto, NFTs**
 
 - 📫 Let's collab! **joeplaydon@gmail.com**
 
+  ---
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joe-playdon-882a58231/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bodthegod" height="50" width="50" /></a>
 </p>
 
+  ---
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VScode" width="50" height="50"></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"></a>
@@ -27,6 +33,8 @@
   
 <p><img align="left" src="https://github-readme-stats-bodthegod.vercel.app/api?username=bodthegod&show_icons=true&theme=radical" alt="joeplaydon" /></p>
 
+  ---
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bodthegod&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-bodthegod.vercel.app/api/top-langs/?username=bodthegod&layout=compact&theme=vision-friendly-dark)](https://github.com/bodthegod/github-readme-stats)

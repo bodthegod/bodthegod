@@ -27,9 +27,9 @@
   
 <p><img align="left" src="https://github-readme-stats-bodthegod.vercel.app/api?username=bodthegod&show_icons=true&theme=radical" alt="joeplaydon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bodthegod&" alt="joeplaydon" /></p>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bodthegod&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-bodthegod.vercel.app/api/top-langs/?username=bodthegod&layout=compact&theme=vision-friendly-dark)](https://github.com/bodthegod/github-readme-stats)
 
 
 <p align="center"> 

@@ -33,7 +33,6 @@
 <p><img align="left" src="https://github-readme-stats-bodthegod.vercel.app/api?username=bodthegod&show_icons=true&theme=vision-friendly-dark" alt="joeplaydon" /></p>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bodthegod&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bodthegod&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-bodthegod.vercel.app/api/top-langs/?username=bodthegod&layout=compact&theme=vision-friendly-dark)](https://github.com/bodthegod/github-readme-stats)
 

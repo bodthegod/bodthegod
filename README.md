@@ -29,8 +29,7 @@
   ---
 
 ### :fire: My Stats :
-  
-<p><img align="left" src="https://github-readme-stats-bodthegod.vercel.app/api?username=bodthegod&show_icons=true&theme=vision-friendly-dark" alt="joeplaydon" /></p>
+<p><img align="left" src="https://github-readme-stats-iota-peach.vercel.app/api?username=bodthegod&show_icons=true&theme=vision-friendly-dark" alt="joeplaydon" /></p>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bodthegod&theme=dark&background=000000)](https://git.io/streak-stats)
 
